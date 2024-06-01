@@ -1,7 +1,7 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "ja"
+languageName = "Japanese"
 weight = 1
-title = "Blowfish"
+title = "重力猫の足あと"
 
 [params]
   displayName = "日本語"
