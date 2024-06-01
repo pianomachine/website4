@@ -15,26 +15,38 @@
   pageRef = "/"
   weight = 1
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "学んだこと"
+# pageRef = "Blog"
+  weight = 20
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "作曲"
+  parent = "学んだこと"
+  pageRef = "Music"
+  weight = 20
+
+[[main]]
+  name = "ゲーム制作"
+  parent = "学んだこと"
+  pageRef = "Game"
+  weight = 20
+
+[[main]]
+  name = "イラスト"
+  parent = "学んだこと"
+  pageRef = "Illust"
+  weight = 20
+
+[[main]]
+  name = "雑日記"
+  pageRef = "雑日記"
+  weight = 10
+
+
+
 
 #[[subnavigation]]
 #  name = "An interesting topic"
@@ -61,6 +73,7 @@
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
+
 
 
 # [[footer]]
