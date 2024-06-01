@@ -4,21 +4,21 @@ weight = 1
 title = "重力猫の足あと"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "日本語"
+  isoCode = "ja"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  #logo = "img/cat3.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [author]
-#   name = "Your name here"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
+ [author]
+    name = "重力猫の足あと"
+    image = "img/cat4.png"
+   headline = "いろんな出来事を記録する場所"
+   bio = "趣味で創作をしています"
+   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -60,9 +60,9 @@ title = "重力猫の足あと"
 #     { tiktok = "https://tiktok.com/@username" },
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
-#     { twitter = "https://twitter.com/username" },
+     { twitter = "https://twitter.com/pm003" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
+     { youtube = "https://www.youtube.com/channel/UCsZMobLUXMylkw632WdkyEA" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+   ]
