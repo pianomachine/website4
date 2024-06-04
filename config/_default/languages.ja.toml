@@ -1,7 +1,7 @@
 languageCode = "ja"
 languageName = "Japanese"
 weight = 1
-title = "重力猫の足あと"
+title = "一匙の幻想"
 
 [params]
   displayName = "日本語"
@@ -14,7 +14,7 @@ title = "重力猫の足あと"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
-    name = "重力猫の足あと"
+    name = "一匙の幻想"
     image = "img/cat4.png"
    headline = "いろんな出来事を記録する場所"
    bio = "趣味で創作をしています"
