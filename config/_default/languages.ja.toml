@@ -8,8 +8,8 @@ title = "一匙の幻想"
   isoCode = "ja"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/cat4.png"
-  secondaryLogo = "img/cat4.png"
+  # logo = "img/cat4.png"
+  # secondaryLogo = "img/cat4.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
