@@ -8,13 +8,13 @@ title = "一匙の幻想"
   isoCode = "ja"
   rtl = false
   dateFormat = "2 January 2006"
-  #logo = "img/cat3.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "img/cat4.png"
+  secondaryLogo = "img/cat4.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
-    name = "一匙幻想"
+    name = "重力猫の足あと"
     image = "img/cat4.png"
    headline = "いろんな出来事を記録する場所 "
    bio = "趣味で創作をしています"
