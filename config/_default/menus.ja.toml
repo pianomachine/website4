@@ -30,24 +30,24 @@
 [[main]]
   name = "作曲"
   parent = "学んだこと"
-  pageRef = "Music"
+  pageRef = "tags/制作「音楽」"
   weight = 20
 
 [[main]]
   name = "ゲーム制作"
   parent = "学んだこと"
-  pageRef = "Game"
+  pageRef = "tags/制作「ゲーム」"
   weight = 20
 
 [[main]]
   name = "イラスト"
   parent = "学んだこと"
-  pageRef = "Illust"
+  pageRef = "tags/制作「イラスト」"
   weight = 20
 
 [[main]]
   name = "雑日記"
-  pageRef = "雑日記"
+  pageRef = "tags/雑日記"
   weight = 10
 
 
