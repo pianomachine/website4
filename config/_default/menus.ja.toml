@@ -74,6 +74,11 @@
   pageRef = "tags"
   weight = 30
 
+[[main]]
+  name = "制作作品"
+  pageRef = "制作作品"
+  weight = 40
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
