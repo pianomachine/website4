@@ -1,5 +1,5 @@
 ---
-title: "「小説を読むこと」のここがいい"
+title: "「小説を読むこと」のここが良い"
 date: 2024-06-12
 draft: false
 description: "How to install the Blowfish theme."
