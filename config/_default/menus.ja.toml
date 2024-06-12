@@ -76,7 +76,7 @@
 
 [[main]]
   name = "制作作品"
-  pageRef = "制作作品"
+  pageRef = "MyWorks"
   weight = 40
 
 
