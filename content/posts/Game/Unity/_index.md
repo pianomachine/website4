@@ -3,7 +3,7 @@ title: Unity
 cascade:
   showEdit: true
   showSummary: false
-  hideFeatureImage: true
+  hideFeatureImage: false
   groupByYear: false
 ---
 
