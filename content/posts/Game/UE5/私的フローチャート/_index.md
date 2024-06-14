@@ -1,5 +1,6 @@
 ---
-title: 投稿
+title: 私的フローチャート
+slug: "MyFlowchart"
 ---
 
 全ての投稿を一覧で表示。

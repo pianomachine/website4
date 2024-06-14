@@ -1,5 +1,6 @@
 ---
-title: 投稿
+title: 疑問と仮設
+slug: "questions_and_hypotheses"
 ---
 
 全ての投稿を一覧で表示。

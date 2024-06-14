@@ -1,5 +1,6 @@
 ---
-title: 投稿
+title: 真似してみた
+slug: "imitation"
 ---
 
 全ての投稿を一覧で表示。
