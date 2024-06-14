@@ -6,6 +6,7 @@ cascade:
   showSummary: false
   hideFeatureImage: true
   groupByYear: false
+  showDate: false
 ---
 
 ---
