@@ -3,7 +3,7 @@ title: UE5
 cascade:
   showEdit: true
   showSummary: false
-  hideFeatureImage: true
+  hideFeatureImage: false
   groupByYear: false
 ---
 
