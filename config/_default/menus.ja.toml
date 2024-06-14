@@ -30,19 +30,19 @@
 [[main]]
   name = "作曲"
   parent = "学んだこと"
-  pageRef = "tags/制作「音楽」"
+  pageRef = "tags/勉強「音楽制作」"
   weight = 20
 
 [[main]]
   name = "ゲーム制作"
   parent = "学んだこと"
-  pageRef = "tags/制作「ゲーム」"
+  pageRef = "tags/勉強「ゲーム制作」"
   weight = 20
 
 [[main]]
   name = "イラスト"
   parent = "学んだこと"
-  pageRef = "tags/制作「イラスト」"
+  pageRef = "tags/勉強「イラスト制作」"
   weight = 20
 
 [[main]]

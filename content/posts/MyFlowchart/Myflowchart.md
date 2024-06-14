@@ -4,7 +4,7 @@ date: 2020-01-01
 draft: false
 description: "How to install the Blowfish theme."
 # slug: "installation"
-tags: ["私的フローチャート", "勉強「音楽」", "勉強「イラスト」", "勉強「ゲーム」"]
+tags: ["私的フローチャート", "勉強「音楽制作」", "勉強「イラスト制作」", "勉強「ゲーム制作」"]
 # series: ["GitHub"]
 # vseries_order: 2
 # authors:
