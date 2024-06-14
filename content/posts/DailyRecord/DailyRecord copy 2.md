@@ -1,6 +1,6 @@
 ---
-title: "2024// 今日の記録"
-date: 2024-01-01
+title: "2024/06/14 今日の記録"
+date: 2024-06-14
 draft: false
 description: "How to install the Blowfish theme."
 # slug: "installation1"
@@ -31,7 +31,6 @@ series_order: 1
 
 
 
-今日の「1日1個3秒タスク_ランキング努力法」タスク
 
 ・
 
@@ -39,7 +38,7 @@ series_order: 1
 ーーーーーーーーーーーーーーーーーーーーーーーー
 
 
-・
+・タグの仕組みを変える（それぞれの分野を押したら、私的フローチャート・まとめ・読んでみた・疑問と仮設　が見えるようにする）
 
 
 
