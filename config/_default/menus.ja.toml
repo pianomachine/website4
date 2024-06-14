@@ -36,7 +36,7 @@
 [[main]]
   name = "ゲーム制作"
   parent = "学んだこと"
-  pageRef = "tags/勉強「ゲーム制作」"
+  pageRef = "posts/Game"
   weight = 20
 
 [[main]]
