@@ -1,5 +1,9 @@
 ---
 title: UE5
+cascade:
+  showEdit: false
+  showSummary: false
+  hideFeatureImage: true
 ---
 
 全ての投稿を一覧で表示。
