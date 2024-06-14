@@ -1,6 +1,6 @@
 ---
 title: 疑問と仮設
-slug: "20240613"
+slug: "questions_and_hypotheses"
 ---
 
 全ての投稿を一覧で表示。

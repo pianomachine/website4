@@ -1,6 +1,6 @@
 ---
-title: 疑問と仮設
-slug: "20240613"
+title: 真似してみた
+slug: "imitation"
 ---
 
 全ての投稿を一覧で表示。
