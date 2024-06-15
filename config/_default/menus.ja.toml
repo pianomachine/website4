@@ -30,7 +30,7 @@
 [[main]]
   name = "作曲"
   parent = "学んだこと"
-  pageRef = posts/Music"
+  pageRef = "posts/Music"
   weight = 20
 
 [[main]]
