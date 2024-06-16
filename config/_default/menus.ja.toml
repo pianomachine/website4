@@ -42,7 +42,19 @@
 [[main]]
   name = "イラスト"
   parent = "学んだこと"
-  pageRef = "tags/勉強「イラスト制作」"
+  pageRef = "posts/Illust"
+  weight = 20
+
+[[main]]
+  name = "英語"
+  parent = "学んだこと"
+  pageRef = "posts/English"
+  weight = 20
+
+  [[main]]
+  name = "深層学習"
+  parent = "学んだこと"
+  pageRef = "posts/DeepLearning"
   weight = 20
 
 [[main]]
