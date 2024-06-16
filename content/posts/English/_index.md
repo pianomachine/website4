@@ -1,5 +1,5 @@
 ---
-title: 学んだこと「ゲーム制作」
+title: 学んだこと「英語」
 cascade:
   showEdit: true
   showSummary: false

@@ -4,7 +4,7 @@ date: 2022-01-01
 draft: false
 description: "How to install the Blowfish theme."
 # slug: ""
-tags: ["学んだこと「ゲーム制作」", "Blender", "読んでみた"]
+tags: ["学んだこと「英語」", "Listening", "読んでみた"]
 # series: ["GitHub"]
 # series_order: 1
 # authors:
