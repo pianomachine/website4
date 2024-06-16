@@ -1,5 +1,11 @@
 ---
 title: 投稿
+cascade:
+  showEdit: true
+  showSummary: false
+  hideFeatureImage: false
+  groupByYear: true
+  showDate: false
 ---
 
 全ての投稿を一覧で表示。
