@@ -38,4 +38,22 @@ Much of the water in a sample of water-saturated sediment or rock will drain fro
 The relative amount of these two kinds of water varies greatly from one kind of rock or sediment to another, even though their porosities may be the same. What happens depends on pore size. If the pores are large, the water in them will exist as drops too heavy for surface tension to hold, and it will drain away; but if the pores are small enough, the water in them will exist as thin films, too light to overcome the force of surface tension holding them in place; then the water will be firmly held.
 
 
+
 # まとめ
+あああああああ
+
+
+
+
+
+# まとめ
+あああああああ
+
+
+
+
+
+# まとめ
+あああああああ
+
+
