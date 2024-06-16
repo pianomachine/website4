@@ -1,5 +1,5 @@
 ---
-title: "～読んでみた"
+title: "長文1-1 読んでみた"
 date: 2024-01-01
 draft: false
 description: "How to install the Blowfish theme."
@@ -36,3 +36,6 @@ The proportion of empty space in a rock is known as its porosity. But note that 
 Much of the water in a sample of water-saturated sediment or rock will drain from it if the sample is put in a suitable dry place. But some will remain, clinging to all solid surfaces. It is held there by the force of surface tension without which water would drain instantly from any wet surface, leaving it totally dry. The total volume of water in the saturated sample must therefore be thought of as consisting of water that can, and water that cannot, drain away.
 
 The relative amount of these two kinds of water varies greatly from one kind of rock or sediment to another, even though their porosities may be the same. What happens depends on pore size. If the pores are large, the water in them will exist as drops too heavy for surface tension to hold, and it will drain away; but if the pores are small enough, the water in them will exist as thin films, too light to overcome the force of surface tension holding them in place; then the water will be firmly held.
+
+
+# まとめ
