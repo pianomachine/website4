@@ -19,8 +19,8 @@ tags: ["学んだこと「ゲーム制作」", "UE5", "真似してみた"]
 
 <br><br><br>
 ## やったこと
-- Ctrl+Spaceでメニュー開く
-- textureCordinateと検索してテクスチャのUVにつなげる
+- WindowタブからPlaceActorsの項目にチェックをつける
+- 左側にPlaceActorパネルが現れる
 
 
 
