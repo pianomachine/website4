@@ -40,7 +40,7 @@ series_order: 1
 
 
 未完了
-・
+・UEの復習
 
 
 
