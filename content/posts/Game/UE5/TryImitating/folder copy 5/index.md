@@ -1,5 +1,5 @@
 ---
-title: "床の設置するように配置する方法を試してみた"
+title: "「アクターを自動的に床に設置するように配置する方法」を試してみた"
 date: 2024-06-18
 draft: false
 description: "How to install the Blowfish theme."
@@ -19,7 +19,7 @@ tags: ["学んだこと「ゲーム制作」", "UE5", "真似してみた"]
 
 <br><br><br>
 ## やったこと
-- Gキーを押す。それだけ。
+- Endキーを押す。それだけ。
 
 
 
