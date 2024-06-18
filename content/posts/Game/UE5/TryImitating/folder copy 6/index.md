@@ -3,7 +3,7 @@ title: "「アクターをグループ化してまとめる方法」を試して
 date: 2024-06-19
 draft: false
 description: "How to install the Blowfish theme."
-# slug: ""
+slug: "6"
 tags: ["学んだこと「ゲーム制作」", "UE5", "真似してみた"]
 # series: ["GitHub"]
 # series_order: 1

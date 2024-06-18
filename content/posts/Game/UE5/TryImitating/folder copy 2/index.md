@@ -3,7 +3,7 @@ title: "PlaceActorパネルからアセットを配置してみた"
 date: 2024-06-18
 draft: false
 description: "How to install the Blowfish theme."
-# slug: ""
+slug: "2"
 tags: ["学んだこと「ゲーム制作」", "UE5", "真似してみた"]
 # series: ["GitHub"]
 # series_order: 1

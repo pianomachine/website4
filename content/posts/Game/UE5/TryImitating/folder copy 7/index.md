@@ -3,7 +3,7 @@ title: "「まとめる方法」を試してみた"
 date: 2024-06-19
 draft: false
 description: "How to install the Blowfish theme."
-# slug: ""
+slug: "7"
 tags: ["学んだこと「ゲーム制作」", "UE5", "真似してみた"]
 # series: ["GitHub"]
 # series_order: 1
