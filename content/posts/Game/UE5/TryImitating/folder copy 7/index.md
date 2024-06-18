@@ -1,6 +1,6 @@
 ---
 title: "「まとめる方法」を試してみた"
-date: 2024-06-19
+date: 2024-06-18
 draft: false
 description: "How to install the Blowfish theme."
 slug: "7"
