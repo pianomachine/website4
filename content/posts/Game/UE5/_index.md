@@ -4,7 +4,7 @@ cascade:
   showEdit: true
   showSummary: false
   hideFeatureImage: false
-  groupByYear: false
+  groupByYear: true
 ---
 
 全ての投稿を一覧で表示。
