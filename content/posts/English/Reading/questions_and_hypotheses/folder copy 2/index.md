@@ -1,6 +1,6 @@
 ---
 title: "熟語・フレーズで集めるように覚えていく"
-date: 2024-01-01
+date: 2022-01-01
 draft: false
 description: "How to install the Blowfish theme."
 # slug: ""
