@@ -39,7 +39,7 @@ ___
 
 1. ``` be intended to ~ ``` 「～用である」<br> 
 This product is not intended to diagnose, treat, cure or prevent any disease
-2. ```is the word used to ``` 「～するために使われる」<br> 
+2. ```is the word used to ``` 「～するために使われる言葉」<br> 
 Groundwater is the word used to describe water that saturates the ground, filling all the available spaces. 
 1. ```a``` 「～」<br>
 2. ```a``` 「～」<br>
