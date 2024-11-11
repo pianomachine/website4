@@ -81,10 +81,10 @@
 #  pageRef = "categories"
 #  weight = 20
 
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 3
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 3
 
 #[[main]]
 #  name = "制作作品"
