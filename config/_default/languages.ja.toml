@@ -8,14 +8,14 @@ title = "一匙の幻想"
   isoCode = "ja"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/cat4.png"
+  # logo = "img/icon.jpeg"
   # secondaryLogo = "img/cat4.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
     name = "---の足あと"
-    image = "img/cat4.png"
+    image = "img/icon.jpeg"
    headline = "いろんな出来事を記録する場所 "
    bio = "趣味で創作をしています"
    links = [
@@ -60,7 +60,7 @@ title = "一匙の幻想"
 #     { tiktok = "https://tiktok.com/@username" },
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
-     { twitter = "https://twitter.com/pm003" },
+     { twitter = "https://x.com/efu_akuta" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
      { youtube = "https://www.youtube.com/channel/UCsZMobLUXMylkw632WdkyEA" },
