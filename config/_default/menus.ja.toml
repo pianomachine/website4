@@ -86,10 +86,10 @@
   pageRef = "tags"
   weight = 3
 
-[[main]]
-  name = "制作作品"
-  pageRef = "MyWorks"
-  weight = 40
+#[[main]]
+#  name = "制作作品"
+#  pageRef = "MyWorks"
+#  weight = 40
 
 
 # -- Footer Menu --
