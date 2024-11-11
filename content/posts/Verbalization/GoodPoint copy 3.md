@@ -1,6 +1,6 @@
 ---
 title: "勉強とは"
-date: 2024-08-10
+date: 2024-08-11
 draft: false
 description: "How to install the Blowfish theme."
 # slug: "installation1"

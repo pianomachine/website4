@@ -1,6 +1,6 @@
 ---
 title: "「小説を読むこと」のここが良い"
-date: 2024-06-12
+date: 2024-08-12
 draft: false
 description: "How to install the Blowfish theme."
 # slug: "installation1"
