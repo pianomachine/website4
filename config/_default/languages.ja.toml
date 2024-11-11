@@ -15,7 +15,7 @@ title = "一匙の幻想"
 
  [author]
     name = "---の足あと"
-    image = "img/icon.jpeg"
+    image = "img/icon.jpg"
    headline = "いろんな出来事を記録する場所 "
    bio = "趣味で創作をしています"
    links = [
@@ -60,7 +60,7 @@ title = "一匙の幻想"
 #     { tiktok = "https://tiktok.com/@username" },
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
-     { twitter = "https://twitter.com/pm003" },
+     { twitter = "https://x.com/efu_akuta" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
      { youtube = "https://www.youtube.com/channel/UCsZMobLUXMylkw632WdkyEA" },
